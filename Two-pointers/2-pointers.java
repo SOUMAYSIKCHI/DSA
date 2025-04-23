@@ -6,7 +6,7 @@ class Codechef
 {
 	public static void main (String[] armps) throws java.lang.Exception
 	{
-       
+       // Number of subarrays whose count of distinct number <= K  
         int n = 5;
         int k = 3;
         int[] arr = {2,1,1,5,8};
